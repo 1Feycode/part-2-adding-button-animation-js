@@ -38,7 +38,7 @@ function makesound(key){
             break;
         case "d":
             var tom1 = new Audio('sounds/tom-1.mp3');
-            tom1.play();git 
+            tom1.play();
             break;
         case "j":
             var crash3 = new Audio('sounds/tom-2.mp3');
